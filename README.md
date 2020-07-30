@@ -4,9 +4,9 @@ Hi everyone my name is Akinsola Adefolahan and I am the author of this repo. I r
 ## SUPPORT
 - At the moment the API end points are able to handle images, list of values or integers **POSTED VIA POSTMAN** to the end points, *GET* request are not allowed. 
 
-- A limit of 20mb per model has been placed on eaxh instance of the model.
-
 - We are only currenly providing support for the TENSORFLOW lITE FILES('.tflite') and the normal KERAS architecture('.h5')
+
+- A limit of 20mb per model has been placed on eaxh instance of the model, because of this TFLite models are highly advised.
 
 - Code snippets for integration into your webapps will be made available in this repo as well.
 
