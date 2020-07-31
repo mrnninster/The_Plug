@@ -50,5 +50,9 @@ This is the end point for image inference, it takes in greyscale images or RGB i
 Please use the snippets provided so you canconnect properly. However if you still encounter issues you can contact me on twitter using @mrnninster or mail me adefolahan@plugai.xyz. You could also use the message function at the top of your dashboard, this should open up your mail app directly
 
 
+## RESPONSE
+Please be aware that all responses will come as json responses as shown below
+
+
 ## NEXT 
 I will be updating the system soon with provision for videos, live feed, audion as well as text, Please give this repo a star if you like this project and remeber to share, also send me your implementations i would love to see what you do with this
