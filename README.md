@@ -52,6 +52,7 @@ Please use the snippets provided so you canconnect properly. However if you stil
 
 ## RESPONSE
 Please be aware that all responses will come as json responses as shown below
+![](screenshots/Screenshot%20(120).png)
 
 
 ## NEXT 
