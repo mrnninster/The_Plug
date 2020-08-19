@@ -65,7 +65,7 @@ The Due to a large number of requests I have been getting to provide tutorials t
 Over the next couple of weeks I will be adding tutorials and support for SKLearn as well as FastAi. If you do have contributions to make or request you can mail me or open an issue I will attend to them as soon as I possibly can.
 
 ## TENSORFLOW
-The models developed during the tensorflow model tutorial process are made available [here](https://drive.google.com/drive/u/0/folders/1CMjQ62miguKaxPzM303PVsr-SRNPYM2O), you will also find the jupyter notebook scripts here as well. It is to guide you as you develop yours.</br>
+The models developed during the tensorflow model tutorial process are made available [here](https://drive.google.com/drive/folders/1CMjQ62miguKaxPzM303PVsr-SRNPYM2O?usp=sharing), you will also find the jupyter notebook scripts here as well. It is to guide you as you develop yours.</br>
 **NB:** This platform currently runs tensorflow 2.1
 
 
