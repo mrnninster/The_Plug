@@ -27,6 +27,9 @@ In the top left part of your dashboard interface, there are 3 icons, the first l
 - Dimensions(M)
   In the case of the regression type model which is usually a 1 by M dimension input, and M is the dimension specified here
   
+- Image Preprocessing
+  You can choose if you want to preprocess you images by normalization or not. At the moment you can preprocessing by normalizing to a "0 to 1" range and "-1 to 1" range.
+  
 - Channels
   For integers or list, this is should set to none, for grey scale type input images this should be 1 and for rgb type input images, this should be set to 3
   
@@ -56,5 +59,15 @@ Please be aware that all responses will come as json responses as shown below
 ![](Screenshot%20(133).png)
 
 
+## UPDATES 
+The Due to a large number of requests I have been getting to provide tutorials that actually explain in details the steps you would take to make use of the platform, and to include other major libraries, like SKLearn, PyTorch, and FastAi as supported libraries I have the following to make public. At the moment tutorials for tensorflow use cases have been added just go the sample implementation section on the website.
+
+Over the next couple of weeks I will be adding tutorials and support for SKLearn as well as FastAi. If you do have contributions to make or request you can mail me or open an issue I will attend to them as soon as I possibly can.
+
+## TENSORFLOW
+The models developed during the tensorflow model tutorial process are made available here, you will also find the jupyter notebook scripts here as well. It is to guide you as you develop yours. 
+**NB:** This platform currently runs tensorflow 2.1
+
+
 ## NEXT 
-I will be updating the system soon with provision for videos, live feed, audion as well as text, Please give this repo a star if you like this project and remeber to share, also send me your implementations i would love to see what you do with this
+I will be updating the system soon with provision for videos, live feed, audion as well as text, Please give this repo a star if you like this project and remeber to share, also send me your implementations i would love to see what you do with this.
